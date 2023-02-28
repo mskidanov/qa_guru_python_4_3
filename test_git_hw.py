@@ -1,2 +1,2 @@
 def test_git():
-    assert 34 > 10
+    assert 34 > 19
