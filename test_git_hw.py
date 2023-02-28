@@ -7,4 +7,4 @@ def test_git():
 
 
 def test_git():
-    assert 34 > 19
+    assert 34 > 10928
