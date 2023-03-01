@@ -7,4 +7,5 @@ def test_git():
 
 
 def test_git():
+  test_1
     assert 34 > 1
